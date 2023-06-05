@@ -26,18 +26,13 @@
 <br>
 
 ## 📁 My Projects
-- 아이고(IGO-Android) - UWB를 활용한 위치기반 호출 시스템
-<a href="https://www.youtube.com/watch?v=-5HdFFgwsoU" target="_blank"> <img align="right" src="https://w7.pngwing.com/pngs/377/524/png-transparent-youtube-logo-youtube-social-media-computer-icons-youtube-logo-root-v-12-thumbnail.png" alt="igo-youtube" height="30px"/></a>
-<a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000765168" target="_blank"> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI3AwxlkbfFGjDoVtgGKCZq4JhXqrYB5WjXipv0249mJ4IQm6ZRuJqpzNgjRZV6UoaCM&usqp=CAU" alt="igo-one-store" height="30px"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.igoapp.i_go" target="_blank"> <img align="right" src="https://cdn-icons-png.flaticon.com/512/300/300218.png?w=360" alt="igo-play-store" height="30px"/></a>
-<a href="https://github.com/igo-organization/igo-Android" target="_blank"> <img align="right" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="igo-github" height="30px"/></a>
-<a href="https://unmarred-belief-362.notion.site/IGO-UWB-e0a47b1eebb7448db78db0fefc6d49e6?pvs=4" target="_blank"> <img align="right" src="https://i.ibb.co/Mp8DSbj/Group-14.jpg" alt="igo-intro" height="30px"/></a>
+|프로젝트|설명|역할|소개|기타주소|
+|-------|----|---|----|--------|
+|아이고(I-GO)|UWB를 활용한 위치기반 호출 시스템|Android| [노션](https://unmarred-belief-362.notion.site/IGO-UWB-e0a47b1eebb7448db78db0fefc6d49e6?pvs=4) | [깃허브](https://github.com/igo-organization/igo-Android) [유튜브](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000765168) 
+|디바이드(D/VIDE)|공동 배달 매칭 및 SNS 서비스 앱|Android|
+|푸릇에이블(Fruitable)|농산물 판매 플랫폼|Android|
+|잇지(Itzy)|국내 유일무이 장애인 커뮤니티|Backend|
 
-- 디바이드(D/VIDE-Android) - 공동 배달 매칭 및 SNS 서비스 앱
-
-- 푸릇에이블(Fruitable-Android) - 농산물 판매 플랫폼
-
-- 잇지(Itzy-Backend) - 국내 유일무이 장애인 커뮤니티
 
 <br>
 
