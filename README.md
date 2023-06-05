@@ -10,18 +10,34 @@
 
 𝙰𝚗𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐** 𝚘𝚏 𝙿𝚞𝚜𝚊𝚗 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢.
 
-<img align="right" alt="IMG" src="https://raw.githubusercontent.com/1jeongg/1jeongg/main/img/android.png" width="360px"/>
+<img align="right" alt="IMG" src="https://raw.githubusercontent.com/1jeongg/1jeongg/main/img/android.png" width="300px"/>
 
 <br>
 
-## My Activities
+## 👀 My Activities
 - 2022 IoT-X 캡스톤디자인 경진대회 우수상
 
 - 2022 학생창업유망팀 300 본선 진출
 
-- 2023 Kako Tech Campus (Backend)
+- 2023 Kakao Tech Campus (Backend)
 
 - 동아리: UMC(2th), Apptive(17th), Code Coach(15,16th), ...
+
+<br>
+
+## 📁 My Projects
+- 아이고(IGO-Android) - UWB를 활용한 위치기반 호출 시스템
+<a href="https://www.youtube.com/watch?v=-5HdFFgwsoU" target="_blank"> <img align="right" src="https://w7.pngwing.com/pngs/377/524/png-transparent-youtube-logo-youtube-social-media-computer-icons-youtube-logo-root-v-12-thumbnail.png" alt="igo-youtube" height="30px"/></a>
+<a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000765168" target="_blank"> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI3AwxlkbfFGjDoVtgGKCZq4JhXqrYB5WjXipv0249mJ4IQm6ZRuJqpzNgjRZV6UoaCM&usqp=CAU" alt="igo-one-store" height="30px"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.igoapp.i_go" target="_blank"> <img align="right" src="https://cdn-icons-png.flaticon.com/512/300/300218.png?w=360" alt="igo-play-store" height="30px"/></a>
+<a href="https://github.com/igo-organization/igo-Android" target="_blank"> <img align="right" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="igo-github" height="30px"/></a>
+<a href="https://unmarred-belief-362.notion.site/IGO-UWB-e0a47b1eebb7448db78db0fefc6d49e6?pvs=4" target="_blank"> <img align="right" src="https://i.ibb.co/Mp8DSbj/Group-14.jpg" alt="igo-intro" height="30px"/></a>
+
+- 디바이드(D/VIDE-Android) - 공동 배달 매칭 및 SNS 서비스 앱
+
+- 푸릇에이블(Fruitable-Android) - 농산물 판매 플랫폼
+
+- 잇지(Itzy-Backend) - 국내 유일무이 장애인 커뮤니티
 
 <br>
 
