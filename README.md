@@ -6,7 +6,7 @@
 
 <br>
 
-𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝🤖** by Kotlin 𝚊𝚗𝚍 **Spring🌸** by Java
+I'm studying **𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭🤖** by Kotlin 𝚊𝚗𝚍 **𝐒𝐩𝐫𝐢𝐧𝐠🌸** by Java
 
 <img align="right" alt="IMG" src="https://raw.githubusercontent.com/1jeongg/1jeongg/main/img/android.png" width="300px"/>
 
