@@ -34,7 +34,7 @@ I'm studying **𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞
 |디바이드(D/VIDE)|공동 배달 매칭 및 SNS 서비스 앱|Android| [소개](https://d-vide.vercel.app/) | [깃허브](https://github.com/D-VIDE/D-VIDE_Android)
 |푸릇에이블(Fruitable)|농산물 판매 플랫폼|Android| [노션](https://unmarred-belief-362.notion.site/Fruitable-2938753d40af4c8aa6f575e471a6670c?pvs=4)| [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [유튜브](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000766826)
 |잇지(Itzy)|국내 유일무이 장애인 커뮤니티|Backend| [소개](https://www.notion.so/Itzy-673c0d662c2b42739400df58c7e6536f?pvs=4) | [깃허브](https://github.com/Itzy300/ItzyServer)
-|주다(Juda)|쉼터에서 독립한 청년들과 시니어의 멘토링|Android| [노션](https://unmarred-belief-362.notion.site/91fd1cb009714659b9f66ac892288185?pvs=4) | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [유튜브](https://www.youtube.com/shorts/HmVXBLog6jI)
+|주다(Juda)|쉼터에서 독립한 청년&시니어의 멘토링|Android| [노션](https://unmarred-belief-362.notion.site/91fd1cb009714659b9f66ac892288185?pvs=4) | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [유튜브](https://www.youtube.com/shorts/HmVXBLog6jI)
 
 <br>
 
