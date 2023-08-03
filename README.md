@@ -50,4 +50,4 @@ I'm studying **𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞
 <a href="https://www.github.com/" target="_blank"><img align="left" alt="Github" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
 
-![snake gif](https://github.com/1jeongg/1jeongg/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/1jeongg/1jeongg/blob/output/github-contribution-grid-snake-dark.svg)
