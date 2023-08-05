@@ -15,26 +15,26 @@ I'm studying **𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞
 ## 👀 My Activities
 - 2021 부산대학교 정보컴퓨터공학부 입학
 
-- 2022 IoT-X 캡스톤디자인 경진대회 우수상 - `아이고(I-GO)`
+- 2022 IoT-X 캡스톤디자인 경진대회 우수상
 
-- 2022 학생창업유망팀 300 본선 진출 - `잇지(Itzy)`
+- 2022 학생창업유망팀 300 본선 진출
 
 - 2023 Kakao Tech Campus (Backend)
 
-- 2023 SW 중심대학 공동해커톤 후원기업상 / 전자신문 대표상 - `주다(Juda)`
+- 2023 SW 중심대학 공동해커톤 후원기업상 / 전자신문 대표상
 
 - 동아리: UMC(2th), Apptive(17th), Code Coach(15,16th), ...
 
 <br>
 
 ## 📁 My Projects
-|프로젝트|설명|역할|소개|기타주소|
-|-------|----|---|----|--------|
-|아이고(I-GO)|UWB를 활용한 위치기반 호출 시스템|Android| [노션](https://unmarred-belief-362.notion.site/IGO-UWB-e0a47b1eebb7448db78db0fefc6d49e6?pvs=4) | [깃허브](https://github.com/igo-organization/igo-Android) [유튜브](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000765168) 
-|디바이드(D/VIDE)|공동 배달 매칭 및 SNS 서비스 앱|Android| [소개](https://d-vide.vercel.app/) | [깃허브](https://github.com/D-VIDE/D-VIDE_Android)
-|푸릇에이블(Fruitable)|농산물 판매 플랫폼|Android| [노션](https://unmarred-belief-362.notion.site/Fruitable-2938753d40af4c8aa6f575e471a6670c?pvs=4)| [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [유튜브](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000766826)
-|잇지(Itzy)|국내 유일무이 장애인 커뮤니티|Backend| [소개](https://www.notion.so/Itzy-673c0d662c2b42739400df58c7e6536f?pvs=4) | [깃허브](https://github.com/Itzy300/ItzyServer)
-|주다(Juda)|쉼터에서 독립한 청년&시니어의 멘토링|Android| [노션](https://unmarred-belief-362.notion.site/91fd1cb009714659b9f66ac892288185?pvs=4) | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [유튜브](https://www.youtube.com/shorts/HmVXBLog6jI)
+|프로젝트|설명|역할|기타주소|
+|--------|----|---|--------|
+|[아이고(I-GO)](https://unmarred-belief-362.notion.site/IGO-UWB-e0a47b1eebb7448db78db0fefc6d49e6?pvs=4)|UWB를 활용한 위치기반 호출 시스템| Android | [깃허브](https://github.com/igo-organization/igo-Android) [유튜브](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
+|[디바이드(D/VIDE)](https://d-vide.vercel.app/)|공동 배달 매칭 및 SNS 서비스 앱|Android| [깃허브](https://github.com/D-VIDE/D-VIDE_Android)
+|[푸릇에이블(Fruitable)](https://unmarred-belief-362.notion.site/Fruitable-2938753d40af4c8aa6f575e471a6670c?pvs=4)|농산물 판매 플랫폼|Android| [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [유튜브](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) 
+|[잇지(Itzy)](https://www.notion.so/Itzy-673c0d662c2b42739400df58c7e6536f?pvs=4)|국내 유일무이 장애인 커뮤니티 |Backend| [깃허브](https://github.com/Itzy300/ItzyServer)
+|[주다(Juda)](https://unmarred-belief-362.notion.site/91fd1cb009714659b9f66ac892288185?pvs=4)|쉼터에서 독립한 청년&시니어의 멘토링|Android | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [유튜브](https://www.youtube.com/shorts/HmVXBLog6jI)
 
 <br>
 
