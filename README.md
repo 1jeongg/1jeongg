@@ -14,8 +14,8 @@
 
 ## 주요 프로젝트
 
-### 순수웨딩 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-투명한 가격으로 웨딩 플래너와 예비 부부를 매칭해주는 서비스 (2023.09-현재)
+### 순수웨딩
+투명한 가격으로 웨딩 플래너와 예비 부부를 매칭해주는 서비스 (Spring, 2023.09-현재) 
 
 > 🔗 [깃허브](https://github.com/PnuPostAlarmProject/android) 🔗 
 [동작 영상](https://youtu.be/G5ozz9jOJWk) 🔗 
@@ -24,16 +24,16 @@
 > - 마음에 드는 포트폴리오 찜하기
 > - 토스페이먼츠를 이용한 테스트용 결제
 
-### PPAP <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-부산대학교 공지사항, 학과 게시판 정보를 한번에 모아보는 서비스 (2023.07-현재)
-
+### PPAP 
+부산대학교 공지사항, 학과 게시판 정보를 한번에 모아보는 서비스 (Android, 2023.07-현재)
+ 
 > 🔗 [깃허브](https://github.com/PnuPostAlarmProject/android) 
 > - 공지사항 조회
 > - 구독 중인 게시판 관리
 > - 스크랩한 게시글 관리
 
-### 아이고  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-의료진, 환자 간 정확한 위치를 파악하여 부족한 전문 인력을 지원하기 위한 UWB를 활용한 위치기반 호출 시스템 (2022.07 - 2022.10)
+### 아이고 
+의료진, 환자 간 정확한 위치를 파악하여 부족한 전문 인력을 지원하기 위한 UWB를 활용한 위치기반 호출 시스템 (Android, 2022.07 - 2022.10) 
 
 > 🔗 [깃허브](https://github.com/igo-organization/igo-Android) 🔗 [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) 🔗 [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
 > - FCM 서버를 통한 푸시 알림 전송
