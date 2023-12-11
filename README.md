@@ -49,9 +49,9 @@
 |--------|----|---|--------|
 |주다|쉼터에서 독립한 청년들과 시니어를 이어주는 멘토링 서비스| Android | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [동작영상](https://www.youtube.com/shorts/HmVXBLog6jI) |
 | 푸릇에이블 | 농산물 판매 플랫폼 | Android | [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [동작 영상](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) |
-| 디바이드 | 공동 배달 매칭 및 SNS 서비스 앱|Android| [깃허브](https://github.com/D-VIDE/D-VIDE_Android) |
+| 디바이드 | 공동 배달 매칭 및 SNS 서비스 |Android| [깃허브](https://github.com/D-VIDE/D-VIDE_Android) |
 | 잇지 | 국내 유일무이 장애인 커뮤니티 | Backend | [깃허브](https://github.com/Itzy300/ItzyServer) |
-| 아이고 | 의료진, 환자 간 정확한 위치를 파악하여 부족한 전문 인력을 지원하기 위한 UWB를 활용한 위치기반 호출 시스템 | Android |  [깃허브](https://github.com/igo-organization/igo-Android) [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
+| 아이고 | UWB를 활용한 위치기반 호출 시스템 | Android |  [깃허브](https://github.com/igo-organization/igo-Android) [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
 
 <br>
 
