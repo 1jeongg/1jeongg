@@ -12,7 +12,16 @@
 
 <br>
 
-## 주요 프로젝트
+## 진행 중인 프로젝트
+### 그린 기프트
+쓰레기를 버리면 추첨을 통해 선물을 주는 서비스(Spring, Android, Design, 2023.11-현재) 
+
+> 🔗 [Backend-깃허브](https://github.com/Green-GIft/db-term-backend) 🔗 [Android-깃허브](https://github.com/Green-GIft/android-participant) 🔗 [동작 영상](https://youtube.com/shorts/os4Lr7o9Y1g?feature=share) 🔗 [피그마](https://www.figma.com/file/RCcBnVf9puQoWt3ZQspHVI/%EA%B7%B8%EB%A6%B0%EA%B8%B0%ED%94%84%ED%8A%B8?type=design&node-id=75%3A2&mode=design&t=aHcnV9A7lnIy5l9Y-1) 🔗 
+[API 문서](https://unmarred-belief-362.notion.site/API-15cffa428a6b484fb242e70e861612b3?pvs=4)
+> - 축제 참가자: 쓰레기를 버리고 당첨 결과 확인, 마일리지를 이용한 상품 구입
+> - 축제 관리자: 축제 정보, 상품 정보 등록 및 관리
+> - 쓰레기 관리자: 사용자가 쓰레기를 버렸는지 인증하고 정보를 관리, 우수사원 조회
+> - cloudtype을 통한 백엔드 서버 및 데이터베이스 배포 (MariaDB)
 
 ### 순수웨딩
 투명한 가격으로 웨딩 플래너와 예비 부부를 매칭해주는 서비스 (Spring, 2023.09-현재) 
@@ -32,17 +41,9 @@
 > - 구독 중인 게시판 관리
 > - 스크랩한 게시글 관리
 
-### 아이고 
-의료진, 환자 간 정확한 위치를 파악하여 부족한 전문 인력을 지원하기 위한 UWB를 활용한 위치기반 호출 시스템 (Android, 2022.07 - 2022.10) 
-
-> 🔗 [깃허브](https://github.com/igo-organization/igo-Android) 🔗 [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) 🔗 [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
-> - FCM 서버를 통한 푸시 알림 전송
-> - 병원, 의료진, 환자 정보 저장 및 조회
-> - 환자 위치 정보 제공
-
 <br>
 
-## 기타 프로젝트
+## 진행 완료된 프로젝트
 
 |프로젝트|설명|역할|기타주소|
 |--------|----|---|--------|
@@ -50,6 +51,7 @@
 | 푸릇에이블 | 농산물 판매 플랫폼 | Android | [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [동작 영상](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) |
 | 디바이드 | 공동 배달 매칭 및 SNS 서비스 앱|Android| [깃허브](https://github.com/D-VIDE/D-VIDE_Android) |
 | 잇지 | 국내 유일무이 장애인 커뮤니티 | Backend | [깃허브](https://github.com/Itzy300/ItzyServer) |
+| 아이고 | 의료진, 환자 간 정확한 위치를 파악하여 부족한 전문 인력을 지원하기 위한 UWB를 활용한 위치기반 호출 시스템 | Android |  [깃허브](https://github.com/igo-organization/igo-Android) [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
 
 <br>
 
