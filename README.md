@@ -13,6 +13,14 @@
 <br>
 
 ## 진행 중인 프로젝트
+### PPAP 
+부산대학교 공지사항, 학과 게시판 정보를 한번에 모아보는 서비스 (Android, Design, 2023.07-현재)
+ 
+> 🔗 [깃허브](https://github.com/PnuPostAlarmProject/android) 
+> - 공지사항, 스크랩 조회
+> - 구독 중인 게시판 관리
+> - FCM 사용, 유저 친화적 UI
+
 ### 그린 기프트
 쓰레기를 버리면 추첨을 통해 선물을 주는 서비스(Spring, Android, Design, 2023.11-현재) 
 
@@ -32,14 +40,6 @@
 > - Spring Security를 통한 사용자 인증 및 권한 관리
 > - 마음에 드는 포트폴리오 찜하기
 > - 토스페이먼츠를 이용한 테스트용 결제
-
-### PPAP 
-부산대학교 공지사항, 학과 게시판 정보를 한번에 모아보는 서비스 (Android, 2023.07-현재)
- 
-> 🔗 [깃허브](https://github.com/PnuPostAlarmProject/android) 
-> - 공지사항 조회
-> - 구독 중인 게시판 관리
-> - 스크랩한 게시글 관리
 
 <br>
 
