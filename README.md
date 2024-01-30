@@ -40,12 +40,10 @@
 ## 🔨 Languages and Tools:
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" height="42px"/> </a> 
 <a href="https://cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
 <a href="https://www.java.com/ko/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" height="42px"/> </a> 
 <a href="https://developer.android.com/?hl=ko" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" height="42px"/> </a> 
+<a href="https://developer.android.com/jetpack" target="_blank"> <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="42px"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="42px"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="42px"/> </a> 
 <a href="https://www.github.com/" target="_blank"><img align="left" alt="Github" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
 
