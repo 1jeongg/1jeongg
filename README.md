@@ -25,10 +25,8 @@
 |--------|----|---|--------|
 | 순수웨딩 | 투명한 가격으로 웨딩플래너와 예비부부를 매칭해주는 서비스 | Backend | [깃허브](https://github.com/PnuPostAlarmProject/android) [동작 영상](https://youtu.be/G5ozz9jOJWk) [API 문서](https://unmarred-belief-362.notion.site/6fd74038970941a2ad02df0045705095?v=545b8da990c74661b2b6b560009766ff)
 | 그린 기프트 | 쓰레기를 버리면 추첨을 통해 선물을 주는 서비스 | FullStack | [Backend](https://github.com/Green-GIft/db-term-backend) [Android](https://github.com/Green-GIft/android-participant) [동작 영상](https://youtube.com/shorts/os4Lr7o9Y1g?feature=share) [API 문서](https://unmarred-belief-362.notion.site/API-15cffa428a6b484fb242e70e861612b3?pvs=4)
-|주다|쉼터에서 독립한 청년들과 시니어를 이어주는 멘토링 서비스| Android | [깃허브](https://github.com/1jeongg/Juda-Kotlin) [동작영상](https://www.youtube.com/shorts/HmVXBLog6jI) |
 | 푸릇에이블 | 농산물 판매 플랫폼 | Android | [깃허브](https://github.com/ApptiveDev/apptive-17th-fruitable-frontend) [동작 영상](https://www.youtube.com/watch?v=BSc7iKM321Q) [구글플레이스토어](https://play.google.com/store/apps/details?id=com.fruitable.Fruitable&pli=1) |
 | 디바이드 | 공동 배달 매칭 및 SNS 서비스 |Android| [깃허브](https://github.com/D-VIDE/D-VIDE_Android) |
-| 잇지 | 국내 유일무이 장애인 커뮤니티 | Backend | [깃허브](https://github.com/Itzy300/ItzyServer) |
 | 아이고 | UWB를 활용한 위치기반 호출 시스템 | Android |  [깃허브](https://github.com/igo-organization/igo-Android) [동작 영상](https://www.youtube.com/watch?v=-5HdFFgwsoU) [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.igoapp.i_go) 
 
 ## 🏆 Awards
