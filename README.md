@@ -6,7 +6,6 @@
 
 > I'm interested in spring boot and android programming.
 >
-> 🔗[Resume](https://drive.google.com/file/d/10Z19NI6BOQNHrnKaMB_B1apiXC0_Yj2_/view?usp=sharing) 🔗[Portfolio](https://drive.google.com/file/d/1AxWtFvRAmD9nLFu7fdcha9ts_8RGXpCr/view?usp=sharing )
 > - I develop knowing the importance of stability and performance.
 > - I improve user experience and accept feedback to perfect the service.
 > - I understand my coworkers' work styles and communicate well.
